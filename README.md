@@ -8,8 +8,11 @@ Developed with Unreal Engine 4
 
 ### 1-2. 주요내용
 본 과제는 Gamification에 초점을 맞추어 Gamification의 기법들을 게임에 접목시키는 것을 주 내용으로 삼았다. 크게 도전, 성취, 보상 등의 기법들을 게임 요소와 연결시켜 기획 후 구현하였다.
+<br/>
 ①도전: 게임의 모드를 2가지로 나누어 Easy모드와 Hard모드를 이용자가 직접 선택할 수 있게 하였다. Easy모드는 3인칭 시점과 1인칭 시점을 모두 활용할 수 있고 Hard모드는 1인칭 시점만 사용할 수 있다.
+<br/>
 ②성취: 레벨을 세분화하여 높은 레벨로 올라갈수록 난이도를 어렵게 기획하였다. 예를 들어 높은 레벨에서는 운전하는 도중에 야생동물이 갑자기 끼어든다거나, 다른 주차하는 차 들을 피해 안전하게 주차해야한다.
+<br/>
 ③보상: 스테이지를 깨면 보상이 지급되어 더 좋은 차를 이용하거나 차의 스킨을 바꿀 수 있게 된다.
 
 ---
@@ -27,25 +30,29 @@ Developed with Unreal Engine 4
 ![image](https://user-images.githubusercontent.com/83454721/174277425-84cab42a-8391-4882-9015-7737d924569f.png)
 ![image](https://user-images.githubusercontent.com/83454721/174277435-f1f4f580-490a-41ff-81bd-bae4d3fe5ae2.png)
 ![image](https://user-images.githubusercontent.com/83454721/174277444-e4df83dd-ab3d-4f6a-ad19-499c638371e2.png)
-
+<br/>
 Main Menu 및 Pause Menu, 클리어 시 UI 구성 모습
 
 ### 3-2. 메인 레벨 구성
 ![image](https://user-images.githubusercontent.com/83454721/174277461-c87476b2-a10b-4dd6-8346-4ddb7beb2840.png)
-
+<br/>
 메인 스테이지들의 구성
 
 ### 3-3. 최종결과물 주요특징 및 설명
 ![image](https://user-images.githubusercontent.com/83454721/174277472-7839e878-8cad-4482-8961-d7b140efe5e8.png)
+<br/>
 Figure 1. 플레이어가 Main Menu에서 New Game을 선택하면 모드를 선택하는 화면으로 넘어온다.
 
 ![image](https://user-images.githubusercontent.com/83454721/174277481-22d64617-2a3b-4879-bc42-f81429c1c96f.png)
+<br/>
 Figure 2. 튜토리얼 스테이지가 시작되고, 게임에 사용되는 주요 키들에 대한 설명이 출력된다.
 
 ![image](https://user-images.githubusercontent.com/83454721/174277488-67302850-cec4-438c-b4c7-38dfcf0840ec.png)
+<br/>
 Figure 3. 스테이지를 클리어 할 때 마다 충돌 횟수와 걸린 시간이 표시되는 UI가 출력되고 Retry버튼을 통해 스테이지를 다시 시작할 수 있으며 Next버튼을 통해 다음 스테이지로 넘어갈 수 있다.
 
 ![image](https://user-images.githubusercontent.com/83454721/174277500-9aabf81e-214b-4f6f-8998-73016cd7c90b.png)
+<br/>
 Figure 4. 레이싱 휠을 통해 플레이
 
 ---
